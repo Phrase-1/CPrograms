@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1512906650 source:d:\codeblocks程序\c++程序\chap6\exer1\circle.cpp
+	<iostream>
+	"point.h"
+	"circle.h"
+
+1512905887 d:\codeblocks程序\c++程序\chap6\exer1\point.h
+	<iostream>
+
+1512908288 d:\codeblocks程序\c++程序\chap6\exer1\circle.h
+	<iostream>
+	"point.h"
+
